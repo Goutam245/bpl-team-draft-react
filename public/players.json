@@ -1,0 +1,136 @@
+[
+    {
+      "id": 1,
+      "name": "Mushfiqur Rahim",
+      "image": "https://i.ibb.co.com/t3nf149/Musfiqur-Rahim.jpg",
+      "country": "Bangladesh",
+      "player_role": "Batsman",
+      "rating": 9.2,
+      "handedness": "Right-handed",
+      "price": "2500000"
+    },
+    {
+      "id": 2,
+      "name": "Tamim Iqbal",
+      "image": "https://i.ibb.co.com/wybKqH3/Tamim-Iqbal.webp",
+      "country": "Bangladesh",
+      "player_role": "Batsman",
+      "rating": 9.1,
+      "handedness": "Left-handed",
+      "price": "2500000"
+    },
+    {
+      "id": 3,
+      "name": "Chris Gayle",
+      "image": " https://i.ibb.co.com/hZ5jqzv/chris-gayle-20181056062.jpg",
+      "country": "West Indies",
+      "player_role": "All-Rounder",
+      "rating": 9.5,
+      "handedness": "Left-handed",
+      "price": "3500000"
+    },
+    {
+      "id": 4,
+      "name": "Shakib Al Hasan",
+      "image": " https://i.ibb.co.com/p1nGVMH/14ed18ec38f0a60f67c3bc7f55d64021.jpg",
+      "country": "Bangladesh",
+      "player_role": "All-Rounder",
+      "rating": 8.9,
+      "handedness": "Left-handed",
+      "price": "2500000"
+    },
+    {
+      "id": 5,
+      "name": "Virat Kohli",
+      "image": "https://i.ibb.co.com/JWTsnQ1/gettyimages-1802325718-2048x2048.jpg",
+      "country": "India",
+      "player_role": "Batsman",
+      "rating": 9.4,
+      "handedness": "Right-handed",
+      "price": "3000000"
+    },
+    {
+      "id": 6,
+      "name": "Shane Watson",
+      "image": "https://i.ibb.co.com/KG1ftLK/gettyimages-73431339-2048x2048.jpg",
+      "country": "Australia",
+      "player_role": "All-Rounder",
+      "rating": 9.3,
+      "handedness": "Right-handed",
+      "price": "3000000"
+    },
+    {
+      "id": 7,
+      "name": "MS Dhoni",
+      "image": "https://i.ibb.co.com/DwBF129/dhoni.jpg",
+      "country": "India",
+      "player_role": "Batsman",
+      "rating": 9.9,
+      "handedness": "Right-handed",
+      "price": "3500000"
+    },
+    {
+      "id": 8,
+      "name": "Matheesha Pathirana",
+      "image": "https://i.ibb.co.com/JsR4s79/Pathirana-Wallpaper.jpg",
+      "country": "Sri Lanka",
+      "player_role": "Bowler",
+      "rating": 9.1,
+      "handedness": "Right-handed",
+      "price": "3000000"
+    },
+    {
+      "id": 9,
+      "name": "Shahid Afridi",
+      "image": "https://i.ibb.co.com/hCQf7Nm/Shahid-Afridi.webp",
+      "country": "Pakistan",
+      "player_role": "All-Rounder",
+      "rating": 9.4,
+      "handedness": "Right-handed",
+      "price": "3000000"
+    },
+    {
+      "id": 10,
+      "name": "Rashid Khan",
+      "image": "https://i.ibb.co.com/9VBQCxc/gettyimages-1713363183-612x612.jpg",
+      "country": "Afghanistan",
+      "player_role": "All-Rounder",
+      "rating": 9.3,
+      "handedness": "Right-handed",
+      "price": "3000000"
+    },
+    {
+      "id": 11,
+      "name": "Ravindra Jadeja",
+      "image": "https://i.ibb.co.com/1GFc0rX/ravindra-jadeja-celebrating-xjaij70cdbd8uw2l.webp",
+      "country": "India",
+      "player_role": "All-Rounder",
+      "rating": 9.1,
+      "handedness": "Left-handed",
+      "price": "2500000"
+    },
+    {
+      "id": 12,
+      "name": "Moeen Ali",
+      "image": "https://i.ibb.co.com/M8WX5pW/CT-347447.webp",
+      "country": "England",
+      "player_role": "All-Rounder",
+      "rating": 8.9,
+      "handedness": "Left-handed",
+      "price": "2500000"
+    }
+  ]
+  
+  
+
+
+
+  
+
+  
+  
+  
+
+  
+  
+
