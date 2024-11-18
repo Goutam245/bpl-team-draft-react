@@ -1,4 +1,4 @@
-# Project Name: BPL Team Draft
+<!-- # Project Name: BPL Team Draft
 The BLP Team Draft website is a dedicated platform for exploring the BPL player draft, built using React, Tailwind CSS, and DaisyUI to ensure a modern and responsive design. This frontend-focused project offers a well-organized interface where users can view detailed player profiles, including stats, draft picks, and team information, all presented through dynamic, visually appealing components. Fans and team managers can navigate easily between sections, explore draft details, and track player selections in real time. With its clean design and user-friendly layout, the site provides a comprehensive and engaging draft experience for all BPL enthusiasts.
 #
 # Using key features of this project
@@ -24,4 +24,4 @@ The BLP Team Draft website is a dedicated platform for exploring the BPL player 
 # [Live-site: ](https://illustrious-soap.surge.sh/)
 
 # Deploying with Netlify
-# [Live-site: ](https://bpl-team-draft-b10-a7.netlify.app/)
+# [Live-site: ](https://bpl-team-draft-b10-a7.netlify.app/) -->
