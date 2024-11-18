@@ -13,13 +13,13 @@ const Selected = ({ selectedPlayer, handleRemoveBtn,handleAvailableBtn }) => {
                             </div>
                         </div>
                         <div>
-                            <button className='btn text-xl mr-5' onClick={()=>handleRemoveBtn(player.id)}><i className="fa-solid fa-trash text-[#e7a727]"></i></button>
+                            <button className='btn text-xl mr-5' onClick={()=>handleRemoveBtn(player.id)}><i className="fa-solid fa-trash text-[#4d4fcc]"></i></button>
                         </div>
                     </div>
                 ))
             }
             <div>
-                <button onClick={()=>handleAvailableBtn('available')} className='btn hover:btn-warning'>Add More Player</button>
+                <button onClick={()=>handleAvailableBtn('available')} className='btn hover:btn-info'>Add More Player</button>
             </div>
         </div>
     );

@@ -9,11 +9,12 @@ const Header = ({ count }) => {
                     <img src={logo} alt="" />
                 </div>
                 <ul className='hidden sm:flex gap-5 md:gap-10 text-lg font-semibold'>
-                    <li>Home</li>
-                    <li>Fixture</li>
-                    <li>Teams</li>
-                    <li>Schedules</li>
+                    <li className="link link-hover">Home</li>
+                    <li className="link link-hover">Fixture</li>
+                    <li className="link link-hover">Teams</li>
+                    <li className="link link-hover">Schedules</li>
                 </ul>
+             
                 <div className='flex items-center gap-1 border border-slate-400 px-2 py-1 rounded-lg'>
                     <span className='text-lg font-bold'>{count} Coin</span>
                     <img className='w-7' src={coin} alt="" />

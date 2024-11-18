@@ -7,7 +7,7 @@ const Banner = ({handelAddCoin}) => {
                 <img src={criket} alt="Criket.png" />
                 <h1 className='text-white font-bold text-5xl text-center'>Assemble Your Ultimate Dream 11 Cricket Team</h1>
                 <p className='text-white'>Beyond Boundaries Beyond Limits</p>
-                <button onClick={()=>handelAddCoin(10000000)} className='btn btn-outline btn-warning'>Claim Free Credit</button>
+                <button onClick={()=>handelAddCoin(200000000)} className='btn btn-outline btn-info'>Claim Free Credit</button>
             </div>
         </div>
     );
